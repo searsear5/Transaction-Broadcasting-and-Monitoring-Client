@@ -53,7 +53,7 @@ export default function Home() {
           />
         </div>
         <button type="submit" className="bg-blue-500 p-2 rounded-md text-white">
-          Send post
+          Check status
         </button>
       </form>
       <div className="flex py-10 text-2xl">show status : {check}</div>
